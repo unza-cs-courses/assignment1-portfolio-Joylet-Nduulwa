@@ -127,23 +127,32 @@ Before submitting, verify:
 
 ## Your Information
 
-**Name:** [Your Name]
-**Student ID:** [Your Student ID]
-**Design Theme:** [Describe your portfolio theme/style]
-
+Name: Joylet Nduulwa  
+Student ID: 2021445071 
+Design Theme: A modern pink-themed portfolio highlighting networking and cybersecurity projects.
 ### CSS Techniques Used
-- [ ] CSS Custom Properties
-- [ ] Flexbox
-- [ ] CSS Grid
-- [ ] Media Queries
-- [ ] Other: _______________
+-CSS Techniques Used
+ CSS Custom Properties
+ Flexbox
+ CSS Grid
+ Media Queries
 
 ### Challenges & Solutions
-[Describe any challenges you faced and how you solved them]
+Challenges & Solutions
+
+One challenge I faced was making the project cards responsive on smaller screens.
+I solved this by using CSS Grid with media queries to change the number of columns
+depending on the screen size.
 
 ### Credits
-[List any images, fonts, or resources used with attribution]
 
+Images: Free stock images from google
+
+Fonts: System UI fonts used via CSS font stack
+
+Icons: None used
+
+Code Inspiration: Course lecture notes for CSC4035 Web Programming
 ---
 
 ## Academic Integrity
